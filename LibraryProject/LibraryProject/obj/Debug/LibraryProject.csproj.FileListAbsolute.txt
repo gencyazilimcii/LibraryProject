@@ -1,0 +1,9 @@
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\jombi\Desktop\DERSLER\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
